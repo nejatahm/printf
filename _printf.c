@@ -1,4 +1,4 @@
-i#include <stddef.h>
+#include <stddef.h>
 #include "main.h"
 #include <unistd.h>
 #include <stdlib.h>
